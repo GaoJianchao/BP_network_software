@@ -1,0 +1,14 @@
+H:\fhfx\fhfx\fhfx\bin\Debug\fhfx.exe
+H:\fhfx\fhfx\fhfx\bin\Debug\fhfx.pdb
+H:\fhfx\fhfx\fhfx\obj\x86\Debug\fhfx.Properties.Resources.resources
+H:\fhfx\fhfx\fhfx\obj\x86\Debug\fhfx.csproj.GenerateResource.Cache
+H:\fhfx\fhfx\fhfx\obj\x86\Debug\fhfx.exe
+H:\fhfx\fhfx\fhfx\obj\x86\Debug\fhfx.pdb
+H:\fhfx\fhfx\fhfx\obj\x86\Debug\fhfx.登陆.resources
+H:\fhfx\fhfx\fhfx\obj\x86\Debug\fhfx.Form2.resources
+H:\fhfx\fhfx\fhfx\obj\x86\Debug\fhfx.csprojResolveAssemblyReference.cache
+H:\fhfx\fhfx\fhfx\bin\Debug\Interop.MLApp.dll
+H:\fhfx\fhfx\fhfx\obj\x86\Debug\Interop.MLApp.dll
+H:\fhfx\fhfx\fhfx\obj\x86\Debug\fhfx.csproj.ResolveComReference.cache
+H:\fhfx\fhfx\fhfx\obj\x86\Debug\fhfx.Form3.resources
+H:\fhfx\fhfx\fhfx\obj\x86\Debug\fhfx.Form4.resources
